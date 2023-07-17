@@ -77,30 +77,4 @@ php artisan serve
 
 ##### Congratulations! You have successfully deployed Style Sensei Web Application on your PC.
 
-### Folder structure
-
-Here's a folder structure for a Pandoc document:
-
-```
-my-document/     # Root directory.
-|- build/        # Folder used to store builded (output) files.
-|- src/          # Markdowns files; one for each chapter.
-|- images/       # Images folder.
-|- metadata.yml  # Metadata content (title, author...).
-|- Makefile      # Makefile used for building our documents.
-```
-
-
-### Creating chapters
-
-Creating a new chapter is as simple as creating a new markdown file in the
-*src/* folder; you'll end up with something like this:
-
-```
-src/01-introduction.md
-src/02-installation.md
-src/03-usage.md
-src/04-references.md
-```
-
 
