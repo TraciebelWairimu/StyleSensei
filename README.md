@@ -1,4 +1,4 @@
-# Style Sensei
+# style sensei
 # A Digital Wardrobe Web Application
 
 ## Description
